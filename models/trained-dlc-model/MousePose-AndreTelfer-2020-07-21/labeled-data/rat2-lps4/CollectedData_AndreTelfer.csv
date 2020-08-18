@@ -1,0 +1,6 @@
+scorer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer
+bodyparts,nose,nose,left_ear,left_ear,right_ear,right_ear,left_eye,left_eye,right_eye,right_eye,front_left_paw,front_left_paw,front_right_paw,front_right_paw,back_left_paw,back_left_paw,back_right_paw,back_right_paw
+coords,x,y,x,y,x,y,x,y,x,y,x,y,x,y,x,y,x,y
+labeled-data\rat2-lps4\frame2.png,,,,,,,,,,,,,,,,,,
+labeled-data\rat2-lps4\frame3.png,,,,,,,,,,,,,,,,,,
+labeled-data\rat2-lps4\frame4.png,,,,,,,,,,,,,,,,,,

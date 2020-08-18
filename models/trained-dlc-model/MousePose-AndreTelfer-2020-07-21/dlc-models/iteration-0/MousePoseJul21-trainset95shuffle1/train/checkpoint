@@ -1,0 +1,6 @@
+model_checkpoint_path: "/storage/repos/Mouse-Emotion-Video-Classification/pose-estimation/MousePose-AndreTelfer-2020-07-21/dlc-models/iteration-0/MousePoseJul21-trainset95shuffle1/train/snapshot-1030000"
+all_model_checkpoint_paths: "/storage/repos/Mouse-Emotion-Video-Classification/pose-estimation/MousePose-AndreTelfer-2020-07-21/dlc-models/iteration-0/MousePoseJul21-trainset95shuffle1/train/snapshot-850000"
+all_model_checkpoint_paths: "/storage/repos/Mouse-Emotion-Video-Classification/pose-estimation/MousePose-AndreTelfer-2020-07-21/dlc-models/iteration-0/MousePoseJul21-trainset95shuffle1/train/snapshot-900000"
+all_model_checkpoint_paths: "/storage/repos/Mouse-Emotion-Video-Classification/pose-estimation/MousePose-AndreTelfer-2020-07-21/dlc-models/iteration-0/MousePoseJul21-trainset95shuffle1/train/snapshot-950000"
+all_model_checkpoint_paths: "/storage/repos/Mouse-Emotion-Video-Classification/pose-estimation/MousePose-AndreTelfer-2020-07-21/dlc-models/iteration-0/MousePoseJul21-trainset95shuffle1/train/snapshot-1000000"
+all_model_checkpoint_paths: "/storage/repos/Mouse-Emotion-Video-Classification/pose-estimation/MousePose-AndreTelfer-2020-07-21/dlc-models/iteration-0/MousePoseJul21-trainset95shuffle1/train/snapshot-1030000"

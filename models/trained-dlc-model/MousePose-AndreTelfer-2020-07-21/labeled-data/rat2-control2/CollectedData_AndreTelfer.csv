@@ -1,0 +1,13 @@
+scorer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer
+bodyparts,nose,nose,left_ear,left_ear,right_ear,right_ear,left_eye,left_eye,right_eye,right_eye,front_left_paw,front_left_paw,front_right_paw,front_right_paw,back_left_paw,back_left_paw,back_right_paw,back_right_paw
+coords,x,y,x,y,x,y,x,y,x,y,x,y,x,y,x,y,x,y
+labeled-data\rat2-control2\frame1146.png,403.70593315354074,567.5530408169449,431.39963940486643,396.50367867640364,,,423.25443168388836,495.87521287233716,,,543.8035059543649,523.5689191236629,,,,,,
+labeled-data\rat2-control2\frame1388.png,,,,,,,,,,,,,,,,,,
+labeled-data\rat2-control2\frame1864.png,,,574.755295294082,277.5836459501227,,,,,,,555.2067967637344,404.64888639738183,,,,,,
+labeled-data\rat2-control2\frame2148.png,,,,,,,,,,,,,,,,,,
+labeled-data\rat2-control2\frame231.png,,,706.707660373928,499.1332959607284,613.8522923547771,500.76233750492406,696.9334111087543,590.3596224356837,638.2879155177116,591.9886639798793,,,,,,,,
+labeled-data\rat2-control2\frame2318.png,,,,,,,,,,,,,,,,,,
+labeled-data\rat2-control2\frame258.png,,,718.1109511832974,492.61712978394587,618.7394169873639,476.3267143419896,674.1268294900154,578.9563316263143,618.7394169873639,565.9239992727493,,,,,,,,
+labeled-data\rat2-control2\frame273.png,,,651.3202478712766,487.73000515135897,594.3037938244295,471.4395897094027,594.3037938244295,561.0368746401623,,,,,,,,,,
+labeled-data\rat2-control2\frame689.png,,,595.9328353686251,241.7447319778188,,,545.4325474985606,231.97048271264498,,,592.6747522802339,398.13272022059925,,,,,,
+labeled-data\rat2-control2\frame692.png,,,587.787627647647,220.56719190327556,,,542.1744644101693,222.19623344747117,,,540.5454228659737,376.95518014605614,579.6424199266688,399.761761764795,685.5301202993849,399.761761764795,,

@@ -1,0 +1,13 @@
+scorer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer,AndreTelfer
+bodyparts,nose,nose,left_ear,left_ear,right_ear,right_ear,left_eye,left_eye,right_eye,right_eye,front_left_paw,front_left_paw,front_right_paw,front_right_paw,back_left_paw,back_left_paw,back_right_paw,back_right_paw
+coords,x,y,x,y,x,y,x,y,x,y,x,y,x,y,x,y,x,y
+labeled-data\rat2-lps1\frame10316.png,,,,,670.8687464016241,477.9557558861852,,,,,,,,,,,,
+labeled-data\rat2-lps1\frame11433.png,,,,,670.8687464016241,476.3267143419896,,,,,,,,,,,,
+labeled-data\rat2-lps1\frame11508.png,,,,,674.1268294900154,479.58479743038083,,,,,,,,,,,,
+labeled-data\rat2-lps1\frame12276.png,,,,,674.1268294900154,479.58479743038083,,,,,,,,,,,,
+labeled-data\rat2-lps1\frame12603.png,,,,,675.755871034211,481.21383897457645,,,,,,,,,,,,
+labeled-data\rat2-lps1\frame12685.png,,,,,672.4977879458198,477.9557558861852,,,,,,,,,,,,
+labeled-data\rat2-lps1\frame2563.png,,,,,713.2238265507106,468.1815066210114,,,727.8852004484712,504.0204205933153,,,,,,,,
+labeled-data\rat2-lps1\frame3987.png,,,,,716.4819096391018,473.0686312535983,,,729.5142419926668,499.1332959607284,,,,,,,,
+labeled-data\rat2-lps1\frame6316.png,,,,,714.8528680949062,466.5524650768158,,,729.5142419926668,502.3913790491197,,,,,,,,
+labeled-data\rat2-lps1\frame937.png,,,,,711.5947850065149,463.2943819884245,,,727.8852004484712,492.61712978394587,,,,,,,,

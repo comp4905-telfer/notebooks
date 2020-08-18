@@ -1,0 +1,103 @@
+# Project definitions (do not edit)
+Task: MousePose
+scorer: AndreTelfer
+date: Jul21
+
+# Project path (change when moving around)
+project_path: /storage/repos/Mouse-Emotion-Video-Classification/pose-estimation/MousePose-AndreTelfer-2020-07-21
+
+# Annotation data set configuration (and individual video cropping parameters)
+video_sets: !!omap
+- rat2-lps3: !!omap
+  - crop: 0, 2704, 0, 1520
+- rat3-control2: !!omap
+  - crop: 0, 2704, 0, 1520
+- rat2-control4: !!omap
+  - crop: 0, 2704, 0, 1520
+- rat2-lps2: !!omap
+  - crop: 0, 2704, 0, 1520
+- rat2-control1: !!omap
+  - crop: 0, 2704, 0, 1520
+- rat2-lps4: !!omap
+  - crop: 0, 2704, 0, 1520
+- rat3-control1: !!omap
+  - crop: 0, 2704, 0, 1520
+- rat1-control2: !!omap
+  - crop: 0, 2704, 0, 1520
+- rat4-lps1: !!omap
+  - crop: 0, 2704, 0, 1520
+- rat1-control3: !!omap
+  - crop: 0, 2704, 0, 1520
+- rat2-control2: !!omap
+  - crop: 0, 2704, 0, 1520
+- rat1-control1: !!omap
+  - crop: 0, 2704, 0, 1520
+- rat4-lps2: !!omap
+  - crop: 0, 2704, 0, 1520
+- rat3-lps1: !!omap
+  - crop: 0, 2704, 0, 1520
+- rat1-control4: !!omap
+  - crop: 0, 2704, 0, 1520
+- rat4-control1: !!omap
+  - crop: 0, 2704, 0, 1520
+- rat3-lps2: !!omap
+  - crop: 0, 2704, 0, 1520
+- rat4-control2: !!omap
+  - crop: 0, 2704, 0, 1520
+- rat2-control3: !!omap
+  - crop: 0, 2704, 0, 1520
+- rat2-lps1: !!omap
+  - crop: 0, 2704, 0, 1520
+- rat3-control3: !!omap
+  - crop: 0, 2704, 0, 1520
+- rat3-control4: !!omap
+  - crop: 0, 2704, 0, 1520
+bodyparts:
+- nose
+- left_ear
+- right_ear
+- left_eye
+- right_eye
+- front_left_paw
+- front_right_paw
+- back_left_paw
+- back_right_paw
+start: 0
+stop: 1
+numframes2pick: 20
+
+# Plotting configuration
+skeleton:
+- - bodypart1
+  - bodypart2
+- - objectA
+  - bodypart3
+skeleton_color: black
+pcutoff: 0.6
+dotsize: 12
+alphavalue: 0.7
+colormap: jet
+
+# Training,Evaluation and Analysis configuration
+TrainingFraction:
+- 0.95
+iteration: 0
+resnet:
+snapshotindex: -1
+batch_size: 8
+
+# Cropping Parameters (for analysis and outlier frame detection)
+cropping: false
+#if cropping is true for analysis, then set the values here:
+x1: 0
+x2: 640
+y1: 277
+y2: 624
+
+# Refinement configuration (parameters from annotation dataset configuration also relevant in this stage)
+corner2move2:
+- 50
+- 50
+move2corner: true
+default_net_type: resnet_50
+default_augmenter: default
